@@ -19,3 +19,4 @@ C:\Users\IB System - Mateus\Desktop\Desenvolvimento\Estudo .NET\api\obj\Debug\ne
 C:\Users\IB System - Mateus\Desktop\Desenvolvimento\Estudo .NET\api\obj\Debug\net6.0\ref\api.dll
 C:\Users\IB System - Mateus\Desktop\Desenvolvimento\Estudo .NET\api\obj\Debug\net6.0\api.pdb
 C:\Users\IB System - Mateus\Desktop\Desenvolvimento\Estudo .NET\api\obj\Debug\net6.0\api.genruntimeconfig.cache
+C:\Users\IB System - Mateus\Desktop\Desenvolvimento\Estudo .NET\api\bin\Debug\net6.0\appsettings.Staging.json
